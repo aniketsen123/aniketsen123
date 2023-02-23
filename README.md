@@ -5,12 +5,6 @@
 <h1 align="left">Hey there, I'm <a href="https://github.com/aniketsen123/">Aniket Sen </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
  <a href="https://github.com/aniketsen123/Ultimate-Facebook-Scraper"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Ultimate Facebook Scraper (UFS)" width="200"/></a> - AD </h1> 
 
-02.
-
-
-
-<hr>
-
 <h2 align="left">🌐 Connect</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/aniket-sen-28a43b203/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -61,29 +55,17 @@
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://raw.githubusercontent.com/aniketsen123/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="left" style="width: 100%" />
+<p align="center">
+<td valign="top" width="50%" height="20%">
 
-</td><td valign="top" width="50%">
-
-<img src="https://raw.githubusercontent.com/aniketsen123/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aniketsen123&theme=city-lights&hide_border=true&date_format=%5BY.%5Dn.j&stroke=53DD25&currStreakNum=DD2727&dates=DD30A9" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=aniketsen123&theme=react-dark" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aniketsen123&theme=city-lights&hide_border=true&date_format=%5BY.%5Dn.j&stroke=53DD25&currStreakNum=DD2727&dates=DD30A9" align="center" style="width: 50%" />
 
 
+</td>
+</p>
+
+## Whats Playing   
 
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=1xqh9d85ptiurfd4wuzftevro&cover_image=true&theme=default" align="center" style="width: 20%" />
